@@ -2,7 +2,7 @@
     "version": "0.3.2",
     "description": "Sovereign native computer-use engine and MCP server across Linux, Windows, and macOS",
     "homepage": "https://github.com/AIYantra/extra",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "suggest": {
         "Python": "python"
     },
